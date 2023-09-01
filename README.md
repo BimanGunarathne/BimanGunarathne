@@ -35,8 +35,8 @@
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
   </a>
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer">
-  <img src="https://icons8.com/icon/33039/amazon-web-services" width="40" height="40" />
+  <a href="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" />
   </a>
 </p>
 
