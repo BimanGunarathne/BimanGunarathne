@@ -1,8 +1,6 @@
 # Hi👋🏻 I'm Biman Gunarathne
 
-### Software Engineer and researcher
-
-**`Software Development Craftsman (Developer/Desighnier/Maintainer)`**
+**`Software Development Craftsman (Developer/Desighnier/Maintainer/Resercher)`**
 
 *🌳 Live in Gampaha
 
