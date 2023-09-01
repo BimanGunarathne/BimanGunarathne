@@ -7,8 +7,8 @@
 * 📧 Direct contact me at [bimangunarathne@gmail.com](mailto:bimangunarathne@gmail.com) , [bimangunarathne@outlook.com](mailto:bimangunarathne@outlook.com)
 * ☁️ Learn and follow Azure and AWS technologies
 
-### Skills nad Tools I know 😎
+## Skills nad Tools I know 😎
 
-## Skills
+### Skills
 
 
