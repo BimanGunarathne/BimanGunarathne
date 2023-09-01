@@ -1,5 +1,5 @@
 # Hi👋🏻 I'm Biman Gunarathne
-## Software Engineer and researcher
+### Software Engineer and researcher
 
 <!--
 **BimanGunarathne/BimanGunarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
