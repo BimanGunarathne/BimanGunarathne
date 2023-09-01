@@ -3,6 +3,8 @@
 **`Software Development Craftsman (Developer/Desighnier/Maintainer/Resercher)`**
 
 *🌳 Live in Gampaha
+*💼 Portfolio is comming soon
+*📧 Direct contact me at [bimangunarathne@gmail.com] , [bimangunarathne@outlook.com]
 
 <!--
 **BimanGunarathne/BimanGunarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
