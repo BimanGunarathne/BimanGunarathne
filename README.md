@@ -23,5 +23,14 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
   </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  </a>
 </p>
 
