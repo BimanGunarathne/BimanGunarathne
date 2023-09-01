@@ -4,7 +4,7 @@
 
 * 🌳 Live in Gampaha
 * 💼 Portfolio is comming soon
-* 📧 Direct contact me at [bimangunarathne@gmail.com](mailto:bimangunarathne@gmail.com)
+* 📧 Direct contact me at [bimangunarathne@gmail.com](mailto:bimangunarathne@gmail.com) , [bimangunarathne@outlook.com](mailto:bimangunarathne@outlook.com)
 
 <!--
 **BimanGunarathne/BimanGunarathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
