@@ -29,6 +29,9 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="40" height="40" />
+  </a>
   <a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
   </a>
