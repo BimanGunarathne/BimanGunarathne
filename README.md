@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />   
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://commons.wikimedia.org/wiki/File:Spring_Framework_Logo_2018.svg" width="40" height="40" />   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="40" height="40" />   
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java" width="40" height="40" />   
