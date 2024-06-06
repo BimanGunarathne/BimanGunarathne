@@ -11,6 +11,9 @@
 
 
 <p align="left">
+  <a href="https://kx.com/products/kdb/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kx_logo.svg" width="40" height="40" />   
+  </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />   
   </a>
