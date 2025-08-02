@@ -67,4 +67,5 @@
   </a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5162456" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5162456.png)](https://tryhackme.com/p/5162456)
+
