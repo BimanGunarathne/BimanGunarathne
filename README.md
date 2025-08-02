@@ -67,5 +67,3 @@
   </a>
 </p>
 
-🔗 [View my TryHackMe profile](https://tryhackme.com/p/5162456)
-
