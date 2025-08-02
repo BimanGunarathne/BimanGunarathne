@@ -67,5 +67,5 @@
   </a>
 </p>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5162456.png)](https://tryhackme.com/p/5162456)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5162456.png)
 
