@@ -55,6 +55,7 @@ status: Open to exciting opportunities ✅
 
 <table><tr>
 <td align="center"><a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br/><sub><b>MySQL</b></sub></a></td>
+<td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/><br/><sub><b>PostgreSQL</b></sub></a></td>
 <td align="center"><a href="https://kx.com/products/kdb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kx_logo.svg" width="48" height="48"/><br/><sub><b>KDB+</b></sub></a></td>
 </tr></table>
 
