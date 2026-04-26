@@ -67,6 +67,17 @@ status: Open to exciting opportunities ✅
 <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48"/><br/><sub><b>AWS</b></sub></a></td>
 </tr></table>
 
+### 🖥️ Operating Systems
+
+<table><tr>
+<td align="center"><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48"/><br/><sub><b>Windows</b></sub></a></td>
+<td align="center"><a href="https://www.apple.com/macos/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48"/><br/><sub><b>macOS</b></sub></a></td>
+<td align="center"><a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48"/><br/><sub><b>Ubuntu</b></sub></a></td>
+<td align="center"><a href="https://www.debian.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48"/><br/><sub><b>Debian</b></sub></a></td>
+<td align="center"><a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="48" height="48"/><br/><sub><b>Fedora</b></sub></a></td>
+<td align="center"><a href="https://www.centos.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="48" height="48"/><br/><sub><b>CentOS</b></sub></a></td>
+</tr></table>
+
 ### 🎨 Design & Creative Tools
 
 <table><tr>
@@ -120,7 +131,5 @@ status: Open to exciting opportunities ✅
 ### 💬 *"Code is craft. Every line tells a story."*
 
 ⭐ **From [Biman Gunarathne](https://github.com/BimanGunarathne) — Gampaha, Sri Lanka 🇱🇰**
-
-</div>
 
 </div>
