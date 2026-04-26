@@ -44,6 +44,7 @@ status: Open to exciting opportunities ✅
 <table><tr>
 <td align="center"><a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/><br/><sub><b>Java</b></sub></a></td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48"/><br/><sub><b>JavaScript</b></sub></a></td>
+<td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/><br/><sub><b>Python</b></sub></a></td>
 <td align="center"><a href="https://spring.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="48" height="48"/><br/><sub><b>Spring Boot</b></sub></a></td>
 <td align="center"><a href="https://react.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48"/><br/><sub><b>React</b></sub></a></td>
 <td align="center"><a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br/><sub><b>Node.js</b></sub></a></td>
@@ -119,5 +120,7 @@ status: Open to exciting opportunities ✅
 ### 💬 *"Code is craft. Every line tells a story."*
 
 ⭐ **From [Biman Gunarathne](https://github.com/BimanGunarathne) — Gampaha, Sri Lanka 🇱🇰**
+
+</div>
 
 </div>
